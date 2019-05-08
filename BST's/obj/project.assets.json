@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dominic Norris\\Documents\\VS Code\\BST's\\VS Code.csproj",
+      "projectUniqueName": "C:\\Users\\Dominic Norris\\Documents\\VS Code\\LeetCode\\BST's\\VS Code.csproj",
       "projectName": "VS Code",
-      "projectPath": "C:\\Users\\Dominic Norris\\Documents\\VS Code\\BST's\\VS Code.csproj",
+      "projectPath": "C:\\Users\\Dominic Norris\\Documents\\VS Code\\LeetCode\\BST's\\VS Code.csproj",
       "packagesPath": "C:\\Users\\Dominic Norris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dominic Norris\\Documents\\VS Code\\BST's\\obj\\",
+      "outputPath": "C:\\Users\\Dominic Norris\\Documents\\VS Code\\LeetCode\\BST's\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
