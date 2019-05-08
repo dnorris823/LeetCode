@@ -12,8 +12,7 @@ namespace BSTs {
                 return;
 
             while(true){
-                if(root.val != null)
-                    list.Add(root.val);
+                list.Add(root.val);
 
                 if(root.left != null){
                     PreorderTraversal(root.left);
