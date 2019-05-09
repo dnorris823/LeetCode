@@ -20,3 +20,14 @@ C:\Users\Dominic Norris\Documents\VS Code\LeetCode\BST's\obj\Debug\netcoreapp2.1
 C:\Users\Dominic Norris\Documents\VS Code\LeetCode\BST's\obj\Debug\netcoreapp2.1\VS Code.AssemblyInfo.cs
 C:\Users\Dominic Norris\Documents\VS Code\LeetCode\BST's\obj\Debug\netcoreapp2.1\VS Code.dll
 C:\Users\Dominic Norris\Documents\VS Code\LeetCode\BST's\obj\Debug\netcoreapp2.1\VS Code.pdb
+C:\Users\dnorris823\Documents\GitHub\LeetCode\BST's\bin\Debug\netcoreapp2.1\VS Code.deps.json
+C:\Users\dnorris823\Documents\GitHub\LeetCode\BST's\bin\Debug\netcoreapp2.1\VS Code.runtimeconfig.json
+C:\Users\dnorris823\Documents\GitHub\LeetCode\BST's\bin\Debug\netcoreapp2.1\VS Code.runtimeconfig.dev.json
+C:\Users\dnorris823\Documents\GitHub\LeetCode\BST's\bin\Debug\netcoreapp2.1\VS Code.dll
+C:\Users\dnorris823\Documents\GitHub\LeetCode\BST's\bin\Debug\netcoreapp2.1\VS Code.pdb
+C:\Users\dnorris823\Documents\GitHub\LeetCode\BST's\obj\Debug\netcoreapp2.1\VS Code.csprojAssemblyReference.cache
+C:\Users\dnorris823\Documents\GitHub\LeetCode\BST's\obj\Debug\netcoreapp2.1\VS Code.csproj.CoreCompileInputs.cache
+C:\Users\dnorris823\Documents\GitHub\LeetCode\BST's\obj\Debug\netcoreapp2.1\VS Code.AssemblyInfoInputs.cache
+C:\Users\dnorris823\Documents\GitHub\LeetCode\BST's\obj\Debug\netcoreapp2.1\VS Code.AssemblyInfo.cs
+C:\Users\dnorris823\Documents\GitHub\LeetCode\BST's\obj\Debug\netcoreapp2.1\VS Code.dll
+C:\Users\dnorris823\Documents\GitHub\LeetCode\BST's\obj\Debug\netcoreapp2.1\VS Code.pdb
