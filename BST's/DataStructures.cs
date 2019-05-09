@@ -1,7 +1,7 @@
 using System;
 
-namespace BSTs
-{
+namespace BSTs {
+
     // Definition for a binary tree node.
     public class TreeNode {
         public int val;
