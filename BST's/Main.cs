@@ -7,31 +7,51 @@ public class RunTest {
         // Construct the tree
         Console.WriteLine("Constructing Tree.");
         // Create the nodes.
-        TreeNode A = new TreeNode(3);
-        TreeNode B = new TreeNode(9);
-        TreeNode C = new TreeNode(20);
-        TreeNode D = new TreeNode(15);
-        TreeNode E = new TreeNode(7);
-        TreeNode X = new TreeNode(100);
+        TreeNode A = new TreeNode(1);
+        TreeNode B = new TreeNode(2);
+        TreeNode C = new TreeNode(8);
+        TreeNode D = new TreeNode(11);
+        TreeNode E = new TreeNode(13);
+        TreeNode F = new TreeNode(4);
+        TreeNode G = new TreeNode(7);
+        TreeNode H = new TreeNode(2);
+        TreeNode I = new TreeNode(1);
+
+        A.left = B;
+        A.right = null;
+        B.left = null;
+        B.right = null;
 
         // Init node branches
-        A.left = B;
+        /* A.left = B;
         A.right = C;
-        B.left = null;
-        B.right = X;
-        C.left = D;
-        C.right = E;
-        D.left = null;
-        D.right = null;
+        B.left = D;
+        B.right = null;
+        C.left = E;
+        C.right = F;
+        D.left = G;
+        D.right = H;
         E.left = null;
         E.right = null;
-        X.left = null;
-        X.right = null;
+        F.left = null;
+        F.right = I;
+        G.left = null;
+        G.right = null;
+        H.left = null;
+        H.right = null;
+        I.left = null;
+        I.right = null; */
+
+        // Path Sum
+        /* PathSum p = new PathSum();
+        bool hasSum = p.HasPathSumHelper(A, 0, 2, 0);
+        Console.WriteLine("Checked if tree has the sum"); */
+
 
         // Max Depth Search
-        MaxDepthSearch Max = new MaxDepthSearch();
+        /* MaxDepthSearch Max = new MaxDepthSearch();
         Max.FindMaxDepth(A, 1);
-        Console.WriteLine("Max Depth is "+Max.depthMax);
+        Console.WriteLine("Max Depth is "+Max.depthMax); */
         
         // Level Order Traverse the node
         /* LevelOrderTraverse level = new LevelOrderTraverse();
