@@ -28,10 +28,16 @@ public class RunTest {
         X.left = null;
         X.right = null;
 
-        // Traverse the node
-        LevelOrderTraverse level = new LevelOrderTraverse();
+        // Max Depth Search
+        MaxDepthSearch Max = new MaxDepthSearch();
+        Max.FindMaxDepth(A, 1);
+        Console.WriteLine("Max Depth is "+Max.depthMax);
+        
+        // Level Order Traverse the node
+        /* LevelOrderTraverse level = new LevelOrderTraverse();
         level.LevelOrder(A, 0);
-        Console.WriteLine("Traversed");
+        Console.WriteLine("Traversed"); */
+
         /* BasicTraversal Basic = new BasicTraversal();
         Console.WriteLine("PreOrder");
         Basic.PreorderTraversal(A);
